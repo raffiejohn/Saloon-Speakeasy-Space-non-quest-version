@@ -1,0 +1,12 @@
+{
+    "Name": "Saloon Speakeasy Space - No Quest Version",
+    "Author": "RaffieJohn",
+    "Version": "1.2.0",
+    "Description": "Adds more space to the Saloon.",
+    "UniqueID": "RaffieJohn.ExtraSpaceSaloon",
+    "Dependencies": [],
+    "UpdateKeys": [ "Nexus: 29920@NQ" ],
+    "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
