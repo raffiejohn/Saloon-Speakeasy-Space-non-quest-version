@@ -1,12 +1,12 @@
 {
         "Format": "2.2.0",
-            "ConfigSchema": {
-                    "Saloon Basement Size": {
-                              "AllowValues": "small, medium, large",
-                                        "Default": "large",
-                                                  "AllowBlank": false,
-                                                            "Description": "This will determine how big you want the basement to be. NOTE: THIS COULD AFFECT NPC PATHING!"
-                                                                    }
+        "ConfigSchema": {
+        "Saloon Basement Size": {
+        "AllowValues": "small, medium, large",
+        "Default": "large",
+        "AllowBlank": false,
+        "Description": "This will determine how big you want the basement to be. NOTE: THIS COULD AFFECT NPC PATHING!"
+                        }
                                                                           },
                                                                               "Changes":[
                                                                                       {
